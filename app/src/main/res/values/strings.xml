@@ -3,4 +3,6 @@
     <string name="calcular_propina">Calculo de Propinas</string>
     <string name="costo_de_servicio">Ingrese el Costo del Servicio</string>
     <string name="valor_propina">Valor Propina: %s</string>
+    <string name="propina">Propina (%)</string>
+    <string name="rendondear_propina">¿Redeondear Propina?</string>
 </resources>
